@@ -102,6 +102,7 @@ $RECYCLE.BIN/
 *.msp
 *.lnk
 gradle.properties
+bin/
 
 
 secret_maven_username.txt
