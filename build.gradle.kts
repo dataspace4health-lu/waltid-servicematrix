@@ -7,7 +7,7 @@ plugins {
 }
 
 group = "id.walt.servicematrix"
-version = "1.1.3"
+version = "1.SNAPSHOT"
 
 repositories {
     mavenCentral()
